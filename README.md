@@ -16,4 +16,4 @@ NFT Sniper is a  bot designed to swiftly identify new announcements within the O
 * Block/Current timestamp
 * collection symbol, token name
 * price, rarity, rank, supply, seller, buyer
-![]((https://github.com/freesparrowrob/nft-sniper-bot/blob/main/usage.png))
+![](https://github.com/freesparrowrob/nft-sniper-bot/blob/main/usage.png)
