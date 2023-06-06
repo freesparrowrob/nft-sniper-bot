@@ -24,7 +24,6 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about">About The Project</a>
     <li><a href="#install">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#copyright">License</a></li>
