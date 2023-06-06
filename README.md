@@ -30,7 +30,7 @@
 
 
 
-## nft-sniper-bot
+# nft-sniper-bot
 
 NFT Sniper is a  bot designed to swiftly identify new announcements within the OpenSea blockchain. It achieves this by leveraging telegram notifications to promptly notify users of any updates.
 
