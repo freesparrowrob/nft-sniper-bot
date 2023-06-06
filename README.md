@@ -14,8 +14,6 @@
 
 # nft-sniper-bot
 
-![](https://github.com/freesparrowrob/nft-sniper-bot/blob/main/nft.png?raw=true)
-
 NFT Sniper is a  bot designed to swiftly identify new announcements within the OpenSea blockchain. It achieves this by leveraging telegram notifications to promptly notify users of any updates.
 
 ## Install
