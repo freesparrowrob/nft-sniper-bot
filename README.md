@@ -23,7 +23,6 @@
     ·
     <a href="https://github.com/freesparrowrob/nft-sniper-bot/issues">Request Feature</a>
       ·
-    <a href="https://www.anonix.xyz/discord">Join the discord</a>
   </p>
 </p>
   
@@ -34,8 +33,6 @@
     <li><a href="#about">About The Project</a>
     <li><a href="#install">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#copyright">License</a></li>
   </ol>
 </details>
