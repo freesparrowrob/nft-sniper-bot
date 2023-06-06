@@ -5,6 +5,9 @@
 <img src=https://img.shields.io/github/issues/freesparrowrob/nft-sniper-bot?style=for-the-badge&logo=appveyor&color=informational />
 <img src=https://img.shields.io/github/issues-pr/freesparrowrob/nft-sniper-bot?style=for-the-badge&logo=appveyor&color=informational />
 </p>
+
+![](https://github.com/freesparrowrob/nft-sniper-bot/blob/main/nft.jpg?raw=true)
+
 <br />
 <p align="center">
    <p align="center">
