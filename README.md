@@ -7,9 +7,7 @@
 </p>
 <br />
 <p align="center">
- 
- 
-  <p align="center">
+   <p align="center">
     <br />
     <br />
     <br />
@@ -19,8 +17,7 @@
       ·
   </p>
 </p>
-  
-<details open="open">
+  <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#install">Installation</a></li>
