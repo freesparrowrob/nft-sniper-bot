@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://www.npmjs.com/package/hashlips_art_engine">
-    <img alt="downloads" src="https://img.shields.io/npm/dm/hashlips_art_engine.svg?color=blue" target="_blank" />
-  </a>
+
   <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a>
