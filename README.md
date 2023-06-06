@@ -8,9 +8,6 @@
 <br />
 <p align="center">
    <p align="center">
-
-![](https://github.com/freesparrowrob/nft-sniper-bot/blob/main/nft.jpg?raw=true)
-
     <a href="https://github.com/freesparrowrob/nft-sniper-bot/issues">Report Bug</a>
     ·
     <a href="https://github.com/freesparrowrob/nft-sniper-bot/issues">Request Feature</a>
