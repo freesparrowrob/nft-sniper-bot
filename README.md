@@ -7,7 +7,6 @@
 </p>
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="assets/logo.png" alt="Logo" width="150" height="150">
   </a>
   
@@ -28,7 +27,6 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
     <li><a href="#about">About The Project</a>
     <li><a href="#install">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
