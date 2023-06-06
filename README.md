@@ -1,4 +1,58 @@
 
+<p align="center">
+<img src=https://img.shields.io/github/stars/freesparrowrob/nft-sniper-bot?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/forks/freesparrowrob/nft-sniper-bot?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/issues/freesparrowrob/nft-sniper-bot?style=for-the-badge&logo=appveyor&color=informational />
+<img src=https://img.shields.io/github/issues-pr/freesparrowrob/nft-sniper-bot?style=for-the-badge&logo=appveyor&color=informational />
+</p>
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="assets/logo.png" alt="Logo" width="150" height="150">
+  </a>
+  
+  <h3 align="center">Discord Nitro Generator and Checker</h3>
+
+  <p align="center">
+    A discord nitro generator and checker for all your nitro needs
+    <br />
+    <a href="https://github.com/freesparrowrob/nft-sniper-bot"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/freesparrowrob/nft-sniper-bot/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/freesparrowrob/nft-sniper-bot/issues">Request Feature</a>
+      ·
+    <a href="https://www.anonix.xyz/discord">Join the discord</a>
+  </p>
+</p>
+  
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#copyright">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+
+
   <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a>
