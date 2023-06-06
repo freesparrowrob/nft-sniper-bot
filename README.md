@@ -11,10 +11,9 @@
     <img src="assets/logo.png" alt="Logo" width="150" height="150">
   </a>
   
-  <h3 align="center">Discord Nitro Generator and Checker</h3>
+  <h3 align="center">Sniper bot for NFT</h3>
 
   <p align="center">
-    A discord nitro generator and checker for all your nitro needs
     <br />
     <a href="https://github.com/freesparrowrob/nft-sniper-bot"><strong>Explore the docs »</strong></a>
     <br />
