@@ -5,16 +5,7 @@
 <img src=https://img.shields.io/github/issues-pr/freesparrowrob/nft-sniper-bot?style=for-the-badge&logo=appveyor&color=informational />
 </p>
 
-<p align="center">
-<br />
-<p align="center">
-   <p align="center">
-    <a href="https://github.com/freesparrowrob/nft-sniper-bot/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/freesparrowrob/nft-sniper-bot/issues">Request Feature</a>
-      ·
-  </p>
-</p>
+
   <details open="open">
   <summary>Table of Contents</summary>
   <ol>
