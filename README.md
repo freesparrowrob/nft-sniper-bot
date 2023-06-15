@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-
-![](https://github.com/freesparrowrob/nft-sniper-bot/blob/main/nft.jpg?raw=true)
-
 <br />
 <p align="center">
    <p align="center">
